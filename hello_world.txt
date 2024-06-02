@@ -1,0 +1,2 @@
+This is my first time using command lines for Git,
+it's weird but intriguing at the same time!
